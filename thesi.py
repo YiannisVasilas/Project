@@ -1,3 +1,5 @@
+# Find all the reactions
+# Checks all the imports 
 from __future__ import absolute_import
 from __future__ import print_function
 # # Loading the Libraries
@@ -38,11 +40,8 @@ for r in model.reactions:
     if r.reaction:
         print (r,r.name,r.id,r.genes)
 
-
        
-'''for e in model.exchanges:
-    print (e.name
-          ,e.id)'''
+
         
 
         
