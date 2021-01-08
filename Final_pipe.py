@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Marijn Schipper, Ioannis Vasilas, Jasper van der Rijst
+Marijn Schipper, Ioannis Vasilas
 
 Script to run all the scripts
 argv[1] = path to folder with fastq files 
