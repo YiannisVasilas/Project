@@ -2,9 +2,8 @@
 
 """ 
 Ioannis Vasias 
-Anna Pijnacker
-Marijn Schipper
-Fastqc 26/11/2019
+
+Fastqc
 FASTQ Quality 
 """
 
