@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Ioannis Vasilas, Jasper van der Rijst, Marijn Schipper 
+Ioannis Vasilas
 
 Script for Hisat2 
 indexing input: ref_genome output : indexed genome
