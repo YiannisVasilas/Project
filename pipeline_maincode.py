@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Author: Yan Wang
-course project
-main code for pipeline
+Author: Yiannis Vasilas
+
 """
 
 from sys import argv
