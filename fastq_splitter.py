@@ -1,6 +1,6 @@
 #!usr/bin/env python3
 """
-Authors: Joeri, Marieke
+Authors: IV
 
 script that splits fastq.gz file with concatenated reads to 2 files
 input: fastq.gz file
