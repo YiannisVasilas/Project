@@ -1,6 +1,6 @@
 #!usr/bin/env python3
 """
-@authors: Jasper, Marijn Schipper
+@authors: Vasilas
 """
 
 import sys
