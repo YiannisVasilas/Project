@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
-Marijn Schipper, Ioannis Vasilas, Mayke Schelhaas and Anna Pijnacker
-
+Ioannis Vasilas
 Script for samtools sorting and from sam to bam 
 """
 from sys import argv
