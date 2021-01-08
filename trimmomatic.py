@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Author: Yan Wang
+Author: Ioannis Vasilas
 trimming off low quality part of raw reads
 """
 
