@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
 """ 
-Jasper van der Rijst
-Anna Pijnacker
-Mayke Schelhaas
-Marijn Schipper
+
 
 GFFparser 04/12/2019
 GFF parser
